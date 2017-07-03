@@ -25,4 +25,6 @@ provider模块：主要负责业务逻辑的实现，采用springboot的方式�
 
 consumer模块：主要负责消费方的接口调用，调用方式比较多元，该demo中仅采用便于测试的模式进行调用。
 
+# 感谢
+感谢teaey对于dubbo的支持，springboot的写法精简了很多内容，配置也变得更为方便。
 
