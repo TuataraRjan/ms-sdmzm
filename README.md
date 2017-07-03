@@ -5,9 +5,13 @@
 
 # 准备
 1、服务器一台，也可用本机代替
+
 2、服务器需要安装java环境
+
 3、服务器需要安装mariadb、tomcat、zookeeper中间件，其中zookeeper采用standalone模式即可
+
 4、需要通过tomcat部署dubbo-admin管理控制台，用于对微服务进行管治及测试，这里需要注意的是dubbo-admin运行的jdk版本要低于1.8
+
 5、eclipse或者idea的java开发环境一套，开发环境中需要准备好maven集成插件，确保外网连接，其中demo采用jdk1.8进行编译。
 
 ps：以上内容网上资料丰富，不再赘述。
